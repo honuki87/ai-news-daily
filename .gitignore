@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+kakao_token.json
+.venv_ai/
