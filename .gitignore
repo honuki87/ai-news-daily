@@ -1,4 +1,9 @@
 .env
+.env.*
+!.env.example
+env.yaml
+env.local.yaml
+*.secrets.yaml
 __pycache__/
 *.pyc
 .venv/
